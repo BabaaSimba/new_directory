@@ -1,6 +1,6 @@
 # Testing Git & Github Repositories
 
-Create new epo and pushed to github
+Create new epo and pushed to github.
 
 ## Documenting My project.
 
